@@ -1,5 +1,8 @@
-# proyecto
 Comandos
+
+$ apt upgrade
+
+$ apt update
 
 $ pkg install bash
 
