@@ -1,8 +1,8 @@
 Comandos
 
-$ apt upgrade
-
 $ apt update
+
+$ apt upgrade
 
 $ pkg install bash
 
