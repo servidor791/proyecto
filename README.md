@@ -22,4 +22,4 @@ $ ls
 
 $ chmod +x *
 
-$ bash mundonetfree.sh
+$ bash mundocracker.sh
